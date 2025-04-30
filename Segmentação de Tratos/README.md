@@ -61,6 +61,4 @@ Este pipeline realiza a segmentação dos seguintes tratos:
 - Segmentações com método 2 usam coordenadas MNI.
 - O diretório `IN/SEGMENTATIONS` será criado dentro de cada sujeito para armazenar os arquivos `.tck` segmentados.
 
-## Licença
 
-Este projeto está licenciado sob os termos da licença MIT.
