@@ -111,6 +111,7 @@ Each subject folder will contain a `PROCESSAMENTO/` directory with intermediate 
 
 ## 🧑‍💻 Author
 
-Developed and maintained by [Your Name / Lab].
+**MSc. Hohana G. Konell**  
+hohana.konell@alumni.usp.br
 
 ---
